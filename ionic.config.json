@@ -1,0 +1,7 @@
+{
+  "name": "CheckCard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
